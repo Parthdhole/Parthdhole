@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Parth Dhole<br><br>I'm a Java Backend & Full-Stack Developer with a strong focus on building scalable applications using Java, Spring Boot, REST APIs, MySQL, and React.js.<br>I completed my MCA from PES Modern College of Engineering (2025) and have hands-on experience through real-world projects and my internship at Viance Healthcare Systems, where I worked on backend development, API integration, and database operations.<br><br>I enjoy solving backend challenges, writing clean and efficient code, and continuously learning modern tools like AWS, Docker, Git, Jenkins, and more.
 
 <img width="220" height="230" alt="image" src="https://github.com/user-attachments/assets/20a4a991-eaa8-4a9d-8f5b-b0c5e20bb664" />
